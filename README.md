@@ -8,5 +8,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/matías-lagos-contreras-070064363">🔗 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/matías-lagos-contreras-070064363">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn Badge" />
+  </a>
 </p>
