@@ -34,7 +34,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatiLakes&show_icons=true&theme=blueberry&locale=es" alt="Estadísticas de GitHub" width="430" />
-  <img src="https://streak-stats.demolab.com/?user=MatiLakes&theme=blueberry&locale=es" alt="Racha de GitHub" width="450" />
+  <img src="https://streak-stats.demolab.com/?user=MatiLakes&theme=blueberry&locale=es" alt="Racha de GitHub" width="460" />
 </p>
 
 <p align="center">
