@@ -1,4 +1,4 @@
-# Hola, soy Matías Lagos 👋
+# Hola, soy Matías Lagos Ingeniero de Ejecución en Computación e Informática
 
 ---
 
