@@ -27,3 +27,19 @@
 <p align="center">
   Desarrollador de Software | Mantenimiento de Computadoras | Soporte Técnico
 </p>
+
+---
+
+<h2 align="center">Estadísticas de GitHub</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatiLakes&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MatiLakes&theme=default" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiLakes&layout=compact&theme=default" alt="Top Languages" />
+</p>
