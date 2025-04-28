@@ -2,6 +2,6 @@
 
 ---
 
-![Banner](./Banner%20Para%20LinkedIn%20Desarrollador%20De%20Software%20Moderno%20Negro%20(5).png)
+![Banner](https://github.com/user-attachments/assets/62a5b7c6-43f5-4a56-8267-24e18269b07a)
 
-[🔗 LinkedIn](https://www.linkedin.com/in/matiaslagos) 
+[🔗 LinkedIn](https://www.linkedin.com/in/matiaslagos)
