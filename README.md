@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matías-lagos-contreras-070064363">🔗 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/matías-lagos-contreras-070064363">💼 LinkedIn</a>
 </p>
