@@ -33,10 +33,10 @@
 <h2 align="center" style="color:#0a192f;">Estadísticas de GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatiLakes&show_icons=true&theme=blueberry&locale=es" alt="Estadísticas de GitHub" width="435" />
-  <img src="https://streak-stats.demolab.com/?user=MatiLakes&theme=blueberry&locale=es" alt="Racha de GitHub" width="460" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatiLakes&show_icons=true&theme=blueberry&locale=es" alt="Estadísticas de GitHub" width="350" />
+  <img src="https://streak-stats.demolab.com/?user=MatiLakes&theme=blueberry&locale=es" alt="Racha de GitHub" width="350" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiLakes&layout=compact&theme=blueberry&locale=es" alt="Lenguajes Más Usados" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiLakes&layout=compact&theme=blueberry&locale=es" alt="Lenguajes Más Usados" width="350" />
 </p>
