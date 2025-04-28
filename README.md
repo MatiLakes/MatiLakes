@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#0a192f;">Hola, soy Matías Lagos</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00EAFF&center=true&vCenter=true&width=600&lines=Ingeniero+de+Ejecuci%C3%B3n+en+Computaci%C3%B3n+e+Inform%C3%A1tica" alt="Ingeniero de Ejecución en Computación e Informática" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00EAFF&center=true&vCenter=true&width=900&lines=Ingeniero+de+Ejecuci%C3%B3n+en+Computaci%C3%B3n+e+Inform%C3%A1tica" alt="Ingeniero de Ejecución en Computación e Informática" />
 </p>
 
 <p align="center">
