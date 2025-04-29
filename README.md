@@ -21,7 +21,7 @@
 <h2 align="center" style="color:#0a192f;">Sobre mí</h2>
 <p align="center" style="color:#0a192f;">
   Soy un profesional apasionado por la tecnología, con experiencia en desarrollo de software, mantenimiento de computadoras y soporte técnico. 
-  Me enfoco en encontrar soluciones eficaces y de calidad para optimizar los procesos en los que participo.
+  Me caracterizo por una actitud positiva, ética de trabajo solida y compromioso con la calidad de codigo.
 </p>
 
 ---
